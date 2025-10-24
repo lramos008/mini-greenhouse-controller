@@ -1,0 +1,32 @@
+# Archivos temporales de compilación / estado
+History/
+__Previews/
+Project Logs for *  # logs de simulación
+*.PrjPcbStructure
+*.Dat
+*.Drc
+*.Err
+*.Log
+*.RCS
+*.cfg
+*.ldb
+*.out
+
+# Salidas generadas (no diseñadas a mano)
+Simulation Outputs */
+Import Logs */
+Validation Outputs */
+
+# Archivos de respaldo locales
+*.SchDocPreview
+*.PcbDocPreview
+*.Dbk
+*.zip
+*.rar
+*.bak
+*.tmp
+
+# Archivos de compilación de simulación
+*.sdf
+*.sim
+*.swc
