@@ -358,7 +358,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=schematics\soil_moisture_sensors.SchDoc
+DocumentPath=schematics\rs485_sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -494,7 +494,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YVBTXXQA
 
 [Document27]
-DocumentPath=schematics\soil_moisture_sensors.Harness
+DocumentPath=schematics\rs485_sensors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
