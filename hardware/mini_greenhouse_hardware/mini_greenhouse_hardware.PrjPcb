@@ -154,7 +154,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GTIPYPTV
 
 [Document7]
-DocumentPath=schematics\storage_and_rtc.SchDoc
+DocumentPath=schematics\datalogging.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -613,7 +613,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=schematics\storage_and_rtc.Harness
+DocumentPath=schematics\datalogging.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
